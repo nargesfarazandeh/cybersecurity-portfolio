@@ -1,0 +1,3 @@
+# Professional Statement
+
+My name is Narges Farazandeh. I studied Tourism in art school, but I never felt passionate about what I studied. I have always loved computers and learning about technology, so I decided to start building a career in this field. I am currently a web developer and I enjoy developing software, but I have always been interested in understanding how systems work and protecting privacy and security. I am passionate about using technology responsibly and protecting people from those who misuse their knowledge. I am currently at the beginning of my cybersecurity journey, and I am excited to continue learning and developing my skills in this field.
